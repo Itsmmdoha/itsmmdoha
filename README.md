@@ -23,9 +23,3 @@ I'm on a mission to bring my ideas to life. I thrive on turning everyday challen
 ### Badges
 
 <a href="https://github.com/itsmmdoha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmmdoha&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/itsmmdoha/d0ppelganger" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmmdoha&repo=d0ppelganger&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/itsmmdoha/clickstat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmmdoha&repo=clickstat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<a href="https://github.com/itsmmdoha/cct" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itsmmdoha&repo=cct&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
