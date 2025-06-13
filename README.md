@@ -17,7 +17,7 @@
 <p align="center">
   Visit: <a href=https://houndsec.net>HoundSec.net</a> <br>
   - ✉️ Email:<a href=mailto:mmdoha@houndsec.net>mmdoha@houndsec.net</a>
-  <br>- ⚡ In my free time I make videos</p>
+  <br>- ⚡ In my free time, I make videos</p>
 
 ###
 
